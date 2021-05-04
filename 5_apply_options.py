@@ -1,3 +1,5 @@
+# python gui project from nadocoding // image merging program
+
 import os
 import tkinter.ttk as ttk  # 콤보박스,프로그레스바 사용
 import tkinter.messagebox as msgbox  # 메시지 박스
